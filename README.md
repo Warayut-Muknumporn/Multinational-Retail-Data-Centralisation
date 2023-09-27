@@ -4,6 +4,9 @@ This work for a multinational company that sells various goods across the globe.
 
 We construct a local PostgreSQL database for this project. We process the data after it is uploaded from various sources, build a database structure, and execute SQL queries. 
 
+In this document, the discussed project is the Multinational Data Centralisation project, which is a comprehensive project aimed at transforming and analysing large datasets from multiple data sources. By utilising the power of Pandas, the project will clean the data, and produce a STAR based database schema for optimised data storage and access. The project also builds complex SQL-based data queries, allowing the user to extract valuable insights and make informed decisions. This project will provide the user with the experience of building a real-life complete data solution, from data acquisition to analysis, all in one place. 
+
+
 ## Project 
 
 1. Data extraction. In "data_extraction.py" we store methods responsible for the upload of data into pandas data frame from different sources. 
