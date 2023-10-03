@@ -139,7 +139,7 @@ In this document, the discussed project is the Multinational Data Centralisation
         df.dropna(subset = column_name,how='any',inplace= True)
         return df
 
-if __name__ == '__main__':  
+      if __name__ == '__main__':  
 
     dc = DataCleaning()
 
